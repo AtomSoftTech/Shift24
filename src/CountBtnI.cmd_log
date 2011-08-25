@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/Jason/Repos/CountBtnI/src/CountBtnI.xst" -ofn "C:/Users/Jason/Repos/CountBtnI/src/CountBtnI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc CountBtnI.ucf -p xc3s250e-vq100-4 CountBtnI.ngc CountBtnI.ngd  
+map -intstyle ise -p xc3s250e-vq100-4 -cm area -ir off -pr off -c 100 -o CountBtnI_map.ncd CountBtnI.ngd CountBtnI.pcf 
+par -w -intstyle ise -ol high -t 1 CountBtnI_map.ncd CountBtnI.ncd CountBtnI.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml CountBtnI.twx CountBtnI.ncd -o CountBtnI.twr CountBtnI.pcf -ucf CountBtnI.ucf 
+bitgen -intstyle ise -f CountBtnI.ut CountBtnI.ncd 

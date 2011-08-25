@@ -1,0 +1,4 @@
+EN countbtni NULL C:/Users/Jason/Repos/CountBtnI/src/CountBtnI.vhd sub00/vhpl02 1314241912
+AR countbtni behavioral C:/Users/Jason/Repos/CountBtnI/src/CountBtnI.vhd sub00/vhpl03 1314241913
+AR debounce behavioral C:/Users/Jason/Repos/CountBtnI/src/debounce.vhd sub00/vhpl01 1314241911
+EN debounce NULL C:/Users/Jason/Repos/CountBtnI/src/debounce.vhd sub00/vhpl00 1314241910

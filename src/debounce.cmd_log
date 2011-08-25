@@ -1,0 +1,1 @@
+vhdtdtfi -prj CountBtn -o C:/Users/Jason/Repos/CountBtn/src/debounce.vhi -module debounce -template C:/Xilinx/13.2/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work debounce.vhd 
