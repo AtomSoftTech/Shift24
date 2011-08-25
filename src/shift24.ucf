@@ -1,0 +1,33 @@
+###########################################################
+# UCF File starts here                                    #
+###########################################################
+ 
+NET "Clock" 			LOC = "P1"	;
+NET "Reset" 			LOC = "P2"  ; #
+NET "LAT"				LOC = "P3"  ; #
+NET "SDI"				LOC = "P5"  ; #
+
+NET "PDO<0>"			LOC = "P6"  ; #
+NET "PDO<1>"			LOC = "P7"  ; #
+NET "PDO<2>"			LOC = "P8"  ; #
+NET "PDO<3>"			LOC = "P12" ; #
+NET "PDO<4>"			LOC = "P13" ; #
+NET "PDO<5>"			LOC = "P14" ; #
+NET "PDO<6>"			LOC = "P16" ; #
+NET "PDO<7>"			LOC = "P18" ; #
+NET "PDO<8>"			LOC = "P19" ; #
+NET "PDO<9>"			LOC = "P20" ; #
+NET "PDO<10>"			LOC = "P21" ; #
+NET "PDO<11>"			LOC = "P22" ; #
+NET "PDO<12>"			LOC = "P23" ; #
+NET "PDO<13>"			LOC = "P27" ; #
+NET "PDO<14>"			LOC = "P28" ; #
+NET "PDO<15>"			LOC = "P29" ; #		
+NET "PDO<16>"			LOC = "P30" ; #
+NET "PDO<17>"			LOC = "P31" ; #
+NET "PDO<18>"			LOC = "P32" ; #
+NET "PDO<19>"			LOC = "P33" ; #
+NET "PDO<20>"			LOC = "P34" ; #
+NET "PDO<21>"			LOC = "P36" ; #
+NET "PDO<22>"			LOC = "P37" ; #
+NET "PDO<23>"			LOC = "P38" ; #

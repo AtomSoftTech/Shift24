@@ -1,1 +1,4 @@
-VHDL used for Xilinx XCS250E but im sure it can be ported easy!
+VHDL used for Xilinx XC9572XL but im sure it can be ported easy!
+Simple 24bit shift register with output latch and reset.
+
+Serial in, Parallel out
